@@ -1,0 +1,7 @@
+Eco Friendly Fashion Recommendation System
+
+CNN MODEL
+
+SUSTAINABILITY CHECKING
+
+DECENTRALIZED VOTING SYSTEM
