@@ -1,6 +1,6 @@
 Eco Friendly Fashion Recommendation System
 
-CNN MODEL
+AI/ML MODEL
 
 SUSTAINABILITY CHECKING
 
